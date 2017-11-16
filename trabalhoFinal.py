@@ -12,4 +12,10 @@ for lista in arq:
   caracter = arq.read(1)
   pos = ord(caracter)
   
-  lista(pos) = (count == count + 1)
+  contador(caracter)
+  
+  
+  
+def contador(char x):
+  
+  lista(pos) = (count == count + 1))
