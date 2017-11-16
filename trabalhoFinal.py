@@ -1,6 +1,9 @@
 #Codigo em teste
 
-arq = open("arquivo.dat", "rb")
+import glob
+
+glob.glob ('*.*')  #Lê todos os arquivos de uma pasta
+#arq = open("arquivo.dat", "rb")
 
 tamanho = arq.tel(arq.seek (0, seek_end))
 
