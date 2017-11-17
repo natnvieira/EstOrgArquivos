@@ -2,12 +2,12 @@
 
 *Natália Nunes Vieira*
 
-## Trabalho Final:
+# Trabalho Final:
 
-### Objetivo
+## Objetivo
 O trabalho consiste em implementar um código (python) que seja capaz de contar a frequência de Bytes de um arquivo (.txt, .png, .mp3, .mp4, .wav, .pdf, etc), depois compactar estes arquivos e realizar uma nova contagem de frequência. Identificar o grau de compressão de cada um deles e redigir uma documentação com o que foi analisado.
 
-#### Fase 1:
+### Fase 1:
 
 Desenvolver um algoritmo que seja capaz de ler cada Byte de um arquivo e contar a frequencia em que eles ocorrem.
 
@@ -19,9 +19,9 @@ Desenvolver um algoritmo que seja capaz de ler cada Byte de um arquivo e contar 
   - Incrementar uma lista com a frequência que cada Byte aparece no arquivo;
   - Escrever a lista na tela.
   
-**Linguagem: Python**
+_Linguagem: Python_
 
-#### Fase 2:
+### Fase 2:
 
 Compactar os arquivos utilizando formatos já conhecidos.
 
@@ -30,9 +30,9 @@ Compactar os arquivos utilizando formatos já conhecidos.
   - Compactar cada um dos arquivos;
   - Identificar o tamanho anterior e posterior à compactação.
   
-**Formatos para compactação:**
+_Formatos para compactação:_
 
-#### Fase 3:
+### Fase 3:
 
 Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados.
 
@@ -42,9 +42,10 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
   - Identificar qual a diferença da contagem entre os dois testes;
   - Redigir um documento com o que for identificado entre os arquivos.
   
-  **Formato dos arquivos:**</br>
-  **Realizar estes testes também para formatos que já são compactados, como MP3 e MP4.**
+  _Formato dos arquivos:_
+  </br>
+  _Realizar estes testes também para formatos que já são compactados, como MP3 e MP4._
   
-  #### Links para acesso dos arquivos utilizados para os testes:
+ ### Links para acesso dos arquivos utilizados para os testes:
   
   
