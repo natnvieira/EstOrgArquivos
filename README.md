@@ -44,3 +44,7 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
   
   **Formato dos arquivos:**</br>
   **Realizar estes testes também para formatos que já são compactados, como MP3 e MP4.**
+  
+  #### Links para acesso dos arquivos utilizados para os testes:
+  
+  
