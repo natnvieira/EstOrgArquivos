@@ -42,5 +42,5 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
   - Identificar qual a diferença da contagem entre os dois testes;
   - Redigir um documento com o que for identificado entre os arquivos.
   
-  **Formato dos arquivos: 
-  **Realizar estes testes também para formatos que já são compactados, como MP3 e MP4.
+  **Formato dos arquivos: **
+  **Realizar estes testes também para formatos que já são compactados, como MP3 e MP4.**
