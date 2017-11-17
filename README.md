@@ -53,7 +53,9 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
  Deverá ser entregue:
   - Código implementado;
   - Documento contendo a análise da frequência os Bytes antes e depois das compressões.
-  
+ 
+ ## Outras Informações
+ 
  ### Links para acesso dos arquivos utilizados para os testes:
   
  
