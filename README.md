@@ -19,7 +19,7 @@ Desenvolver um algoritmo que seja capaz de ler cada Byte de um arquivo e contar 
   - Incrementar uma lista com a frequência que cada Byte aparece no arquivo;
   - Escrever a lista na tela.
   
-**Linguagem: Python
+**Linguagem: Python**
 
 #### Fase 2:
 
@@ -30,7 +30,7 @@ Compactar os arquivos utilizando formatos já conhecidos.
   - Compactar cada um dos arquivos;
   - Identificar o tamanho anterior e posterior à compactação.
   
-**Formatos para compactação:
+**Formatos para compactação:**
 
 #### Fase 3:
 
@@ -42,5 +42,5 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
   - Identificar qual a diferença da contagem entre os dois testes;
   - Redigir um documento com o que for identificado entre os arquivos.
   
-  **Formato dos arquivos: **
+  **Formato dos arquivos:**</br>
   **Realizar estes testes também para formatos que já são compactados, como MP3 e MP4.**
