@@ -21,7 +21,7 @@ Desenvolver um algoritmo que seja capaz de ler cada Byte de um arquivo e contar 
   
 **_Linguagem: Python
 
-### Fase 2:
+#### Fase 2:
 
 Compactar os arquivos utilizando formatos já conhecidos.
 
@@ -32,7 +32,7 @@ Compactar os arquivos utilizando formatos já conhecidos.
   
 **_Formatos para compactação:
 
-### Fase 3:
+#### Fase 3:
 
 Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados.
 
