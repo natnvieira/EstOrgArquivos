@@ -3,22 +3,25 @@
 import glob
 
 glob.glob ('*.*')  #Lê todos os arquivos de uma pasta
-#arq = open("arquivo.dat", "rb")
 
-tamanho = arq.tel(arq.seek (0, seek_end))
-
-lista = None
-[None]*255
-
-for lista in arq:
-
-  caracter = arq.read(1)
-  pos = ord(caracter)
+for arq in glob:    # Para cada arquivo no glob faça
   
-  contador(caracter)
+  lista = None # cria uma lista vazia
+  [None]*255   # insere 255 espaços na lista
+
+  for x in arq: # para cada 
+    
+    print x
+    caracter = arq.read(1)
+    contador (caracter)
   
-  
+  for y in lista:
+    
+    print chr(y)
+    print y
   
 def contador(char x):
   
-  lista(pos) = (count == count + 1))
+  pos = ord(caracter)
+  lista(pos) = lista(pos) + 1
+  
