@@ -32,7 +32,7 @@ Compactar os arquivos utilizando formatos já conhecidos.
   - Compactar cada um dos arquivos;
   - Identificar o tamanho anterior e posterior à compactação.
   
-_Formatos para compactação:_
+_Formatos para compactação: .rar e .zip_
 
 ### Fase 3:
 
@@ -44,8 +44,10 @@ Comparar a frequência de Bytes dos arquivos antes e depois de serem compactados
   - Identificar qual a diferença da contagem entre os dois testes;
   - Redigir um documento com o que for identificado entre os arquivos.
   
-  _Formato dos arquivos:_
+  _Formato dos arquivos: .png, .jpeg, .epub, .txt, .pdf, .doc, .mp3_
   </br>
+  
+  _INCLUIR .WAV E .MP4 NOS TESTES_
   _Realizar estes testes também para formatos que já são compactados, como MP3 e MP4._
  
  ## Conclusão
