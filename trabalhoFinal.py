@@ -1,5 +1,3 @@
-#Codigo em teste
-
 import glob
 
 def contador(caracter, lista):
@@ -7,10 +5,10 @@ def contador(caracter, lista):
   pos = ord(caracter)
   lista[pos] = lista[pos] + 1
 
-glob = glob.glob("/home/gabriel/Imagens/*.*") #alterar o caminho da pasta
+glob = glob.glob("/Users/Natalia/Documents/projeto/*.*") #alterar o caminho da pasta dependendo do SO
 
 for arq in glob:   
-  arqui = open(arq, "r")
+  arqui = open(arq, "r", encoding="latin-1") # Mudar o encoding dependendo do SO
   print (arq)  
   lista = [0] * 256 # cria uma lista vazia
 
